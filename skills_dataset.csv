@@ -1,0 +1,501 @@
+Role,Skills,Salary,Experience,Industry,Year
+Data Scientist,"Docker, GenAI, C++",1762323,8,Healthcare,2025
+ML Engineer,"Deep Learning, TensorFlow, SQL, Machine Learning, C++",2111329,3,IT,2022
+AI Engineer,"Machine Learning, C++, Power BI, Pandas",2111980,4,Education,2024
+AI Engineer,"TensorFlow, Machine Learning, Docker, Pandas",610972,7,Education,2024
+Data Scientist,"Java, AWS, GenAI",2325441,0,IT,2025
+Software Engineer,"C++, TensorFlow, Docker, Deep Learning",593686,6,Finance,2023
+Software Engineer,"AWS, Docker",1999846,8,IT,2026
+AI Engineer,"Python, Tableau, Machine Learning, Power BI, Java",2159601,2,IT,2023
+Software Engineer,"NLP, Tableau, SQL, Power BI",441426,3,Healthcare,2023
+Data Scientist,"Deep Learning, Tableau, GenAI, Java, SQL",1031236,9,Education,2025
+Cloud Engineer,"Deep Learning, Power BI, TensorFlow, Pandas",609215,1,Finance,2025
+Data Analyst,"GenAI, Machine Learning, Docker, Python",1897443,1,Retail,2024
+Cloud Engineer,"Docker, Python, Pandas, Java",1597545,4,IT,2023
+Data Scientist,"NLP, SQL, GenAI, Python",1312434,6,Retail,2024
+ML Engineer,"NLP, Power BI, TensorFlow, SQL",1422865,7,Finance,2024
+Data Scientist,"Java, Docker, Power BI, MLOps, Pandas",987640,8,Healthcare,2025
+Data Scientist,"NLP, SQL, Machine Learning, Pandas, AWS",1830437,9,Healthcare,2025
+AI Engineer,"Power BI, TensorFlow, Machine Learning, Tableau, GenAI",1312454,8,Healthcare,2024
+Data Analyst,"Pandas, Deep Learning, TensorFlow, NLP",2171338,2,Education,2024
+Data Analyst,"GenAI, Machine Learning, SQL, C++, Docker",315667,0,Retail,2023
+AI Engineer,"TensorFlow, Docker, AWS",1437543,3,Education,2023
+AI Engineer,"Python, Java",2017109,6,Healthcare,2026
+Software Engineer,"Deep Learning, Docker, Power BI, NLP, GenAI",2368892,8,IT,2026
+Cloud Engineer,"Pandas, TensorFlow, Java, AWS",1879160,10,Healthcare,2026
+ML Engineer,"NLP, SQL",636586,10,IT,2024
+Data Scientist,"Docker, Java",1748784,0,Healthcare,2023
+Data Scientist,"Python, NLP",2412179,7,Retail,2024
+Software Engineer,"Power BI, SQL, Pandas, MLOps, Python",2181492,0,Education,2026
+Software Engineer,"TensorFlow, Tableau, GenAI",1201504,5,Healthcare,2025
+AI Engineer,"Machine Learning, Python",1138702,6,Finance,2024
+Data Analyst,"NLP, Power BI",1343649,7,Retail,2023
+Data Analyst,"NLP, MLOps, Machine Learning, Pandas, Docker",1194564,9,Education,2026
+Cybersecurity Analyst,"AWS, SQL",1808485,10,Education,2023
+Cloud Engineer,"SQL, GenAI",780160,1,Healthcare,2022
+Software Engineer,"Machine Learning, Python, Docker, C++, NLP",2122538,7,Education,2025
+Software Engineer,"TensorFlow, Deep Learning, Power BI, NLP, Python",1861337,8,IT,2022
+Cybersecurity Analyst,"Java, GenAI, Power BI",377980,0,Education,2024
+Data Scientist,"Pandas, GenAI, C++, NLP, Machine Learning",2099332,2,Finance,2025
+Cloud Engineer,"TensorFlow, Pandas, Machine Learning, Power BI, AWS",2049041,9,Education,2022
+Cybersecurity Analyst,"GenAI, MLOps, C++",1853039,4,IT,2025
+Software Engineer,"C++, Tableau, TensorFlow",1534904,10,Finance,2026
+Cybersecurity Analyst,"Docker, NLP, Tableau, GenAI",1766022,0,Healthcare,2024
+Data Scientist,"TensorFlow, SQL, Deep Learning, Docker",1378932,0,Education,2022
+Software Engineer,"TensorFlow, Java, GenAI, MLOps",1701102,8,Healthcare,2023
+Software Engineer,"Docker, Deep Learning",937916,8,Healthcare,2023
+Data Scientist,"Tableau, Docker, GenAI",2227732,6,Education,2023
+Cloud Engineer,"Python, TensorFlow, Power BI",1462181,1,Finance,2025
+AI Engineer,"C++, AWS",2401665,9,Education,2026
+AI Engineer,"C++, AWS, Tableau, Power BI, Python",2471404,0,Healthcare,2022
+Cybersecurity Analyst,"MLOps, SQL, Deep Learning, GenAI",1034642,6,Education,2026
+Cloud Engineer,"TensorFlow, SQL, Deep Learning, MLOps",320233,3,IT,2022
+Software Engineer,"C++, SQL, TensorFlow, Docker, NLP",2432888,8,Education,2026
+Data Scientist,"NLP, Docker, Python, TensorFlow",1492230,2,Healthcare,2023
+Cybersecurity Analyst,"Pandas, Docker",1076476,9,Education,2026
+ML Engineer,"GenAI, Python, Java, Pandas, NLP",931145,7,Finance,2023
+Data Scientist,"Machine Learning, Deep Learning, Docker, Pandas",304245,7,Healthcare,2022
+Data Scientist,"NLP, Power BI, TensorFlow",1736378,9,IT,2024
+Data Analyst,"TensorFlow, Machine Learning, C++",1262269,5,IT,2026
+Cloud Engineer,"MLOps, Power BI, NLP, Java, Python",1056246,2,Retail,2023
+Data Scientist,"Tableau, AWS, Pandas, Python",1855276,6,Finance,2025
+Data Analyst,"Java, Machine Learning, GenAI, TensorFlow",927331,10,Finance,2023
+Data Scientist,"Deep Learning, Tableau, Java",940044,8,Finance,2023
+Cybersecurity Analyst,"NLP, Tableau, Docker, SQL",1359276,2,IT,2025
+Cybersecurity Analyst,"Deep Learning, AWS",628132,4,IT,2024
+AI Engineer,"SQL, Machine Learning, Tableau",1534947,6,Education,2025
+Data Analyst,"GenAI, Java, Power BI, TensorFlow, NLP",375317,6,Healthcare,2023
+Cloud Engineer,"MLOps, Python, Deep Learning",697313,1,Education,2024
+Cloud Engineer,"Power BI, GenAI, AWS",1287737,0,Retail,2022
+ML Engineer,"Pandas, Docker",2027423,10,Education,2024
+Cloud Engineer,"C++, NLP, Tableau, GenAI",746454,9,IT,2022
+Cloud Engineer,"Docker, Deep Learning",1818052,9,Education,2023
+ML Engineer,"C++, Pandas, Docker, MLOps",859751,8,Finance,2023
+Cloud Engineer,"Tableau, C++, MLOps",350011,2,Healthcare,2022
+ML Engineer,"NLP, SQL, Docker",1515632,2,IT,2022
+Cloud Engineer,"GenAI, Java",1027347,1,Finance,2024
+Cloud Engineer,"Docker, Deep Learning",1736765,7,Education,2023
+Software Engineer,"Machine Learning, Java, AWS, Deep Learning, Pandas",1980356,1,Education,2024
+Cloud Engineer,"Tableau, NLP, SQL, Java, Machine Learning",466629,4,Finance,2024
+Software Engineer,"NLP, Machine Learning, Tableau, Docker, Pandas",1994670,4,Education,2025
+Software Engineer,"MLOps, TensorFlow, GenAI",2464662,7,IT,2026
+Data Scientist,"Java, AWS",1335614,9,Finance,2023
+Data Scientist,"Power BI, C++, Machine Learning",2375253,3,Finance,2023
+Cybersecurity Analyst,"MLOps, SQL",1078134,1,IT,2024
+Software Engineer,"Deep Learning, Power BI, SQL, Pandas, MLOps",1444677,1,Retail,2025
+Cybersecurity Analyst,"GenAI, MLOps, SQL, TensorFlow",2400338,5,Education,2022
+ML Engineer,"Pandas, Tableau, Python, Java",1742265,9,IT,2026
+Cloud Engineer,"C++, Deep Learning, GenAI",1624784,4,Retail,2024
+ML Engineer,"MLOps, Machine Learning",1666591,3,Healthcare,2022
+ML Engineer,"Docker, Tableau, Deep Learning, Python",1369590,10,Finance,2026
+Cybersecurity Analyst,"AWS, Power BI, C++, Machine Learning, Tableau",783069,7,Healthcare,2026
+Data Scientist,"Machine Learning, Docker, Java, Python, Deep Learning",2201019,3,Finance,2023
+Cybersecurity Analyst,"NLP, Pandas, MLOps, Tableau",2478821,8,Retail,2022
+Cloud Engineer,"SQL, Python, Tableau",2466178,6,Education,2026
+Cloud Engineer,"Power BI, AWS, Machine Learning, Python, MLOps",1678643,3,Finance,2026
+Cybersecurity Analyst,"C++, TensorFlow, Machine Learning, GenAI",881784,9,Education,2026
+Data Scientist,"Docker, TensorFlow, Python",1603190,7,Finance,2022
+Data Analyst,"GenAI, AWS, Machine Learning, Python",866892,9,Healthcare,2026
+Cybersecurity Analyst,"Tableau, TensorFlow",1107161,6,Retail,2024
+Data Scientist,"Deep Learning, Power BI",2076447,2,Education,2022
+Cloud Engineer,"Pandas, SQL, Java",1389421,3,Education,2024
+Cybersecurity Analyst,"Python, Java, Power BI",602536,0,Retail,2025
+Data Scientist,"SQL, Machine Learning, GenAI, Deep Learning, Docker",2069150,4,Education,2022
+Cloud Engineer,"Tableau, Power BI",1497963,3,Retail,2022
+Data Scientist,"Power BI, SQL, C++",2250439,5,Retail,2024
+Data Analyst,"Machine Learning, TensorFlow, C++, Pandas",1754381,2,Retail,2023
+Data Analyst,"Power BI, Docker",505070,5,Education,2023
+Data Scientist,"Docker, Java",511941,5,Education,2024
+Data Analyst,"Java, Python",467928,2,IT,2024
+Data Scientist,"AWS, NLP, GenAI, MLOps, Python",2022908,3,Retail,2026
+Cybersecurity Analyst,"MLOps, Power BI, AWS, Machine Learning, Pandas",2386514,2,Retail,2025
+Software Engineer,"AWS, SQL",2288240,9,Healthcare,2024
+Data Scientist,"AWS, TensorFlow",2469387,6,Education,2026
+Cybersecurity Analyst,"Docker, Java, Tableau, C++, Python",2096007,3,Finance,2023
+AI Engineer,"TensorFlow, Deep Learning, Java, NLP",1134775,4,Retail,2023
+AI Engineer,"SQL, GenAI, Python, Power BI",552593,1,IT,2026
+AI Engineer,"C++, NLP, Java, Tableau",2395153,8,Education,2023
+Cloud Engineer,"C++, AWS, SQL, Docker, TensorFlow",1334424,8,Finance,2024
+Cybersecurity Analyst,"MLOps, C++, Java",1765336,2,IT,2022
+ML Engineer,"C++, Power BI, Java",1199557,9,IT,2025
+Cybersecurity Analyst,"Java, Deep Learning, TensorFlow, GenAI",2154076,7,IT,2023
+Cloud Engineer,"C++, Docker, Java, AWS, Machine Learning",1486955,3,Education,2022
+Cloud Engineer,"Deep Learning, Python, C++, Tableau, Docker",780454,2,Healthcare,2022
+Cybersecurity Analyst,"Tableau, GenAI, Java",2307220,10,Healthcare,2025
+Cloud Engineer,"NLP, Power BI, AWS, TensorFlow, MLOps",2171738,0,IT,2025
+ML Engineer,"Java, TensorFlow",1275931,10,IT,2025
+Cloud Engineer,"Machine Learning, GenAI, SQL, Python",1320865,10,Education,2025
+Data Analyst,"Java, C++, Pandas",865109,9,Retail,2022
+ML Engineer,"MLOps, Machine Learning, Deep Learning, AWS, Tableau",1629701,6,Education,2023
+Data Analyst,"GenAI, Tableau, Deep Learning, SQL",1058832,1,Healthcare,2025
+Software Engineer,"Deep Learning, Java, Python, Machine Learning, MLOps",2402903,8,IT,2023
+ML Engineer,"AWS, Power BI, Deep Learning, MLOps",772200,3,Finance,2024
+ML Engineer,"AWS, MLOps, Power BI, Docker, C++",1198739,2,Finance,2026
+Data Scientist,"Java, Pandas, Power BI",1751968,10,IT,2023
+Software Engineer,"C++, TensorFlow, SQL, Machine Learning, Power BI",1575545,4,Finance,2023
+Cloud Engineer,"Power BI, Tableau",1338939,6,Education,2025
+Cybersecurity Analyst,"Java, Machine Learning, Power BI, TensorFlow",648022,8,Finance,2024
+Cloud Engineer,"Python, Pandas, Tableau",2017754,0,IT,2022
+Cloud Engineer,"Java, MLOps",784402,3,Finance,2026
+Software Engineer,"Pandas, Python, AWS",2111839,5,Education,2026
+ML Engineer,"Docker, Java, Machine Learning, TensorFlow",1579734,0,Healthcare,2025
+Data Scientist,"Java, AWS, MLOps, GenAI",1018220,9,Education,2025
+Data Analyst,"Machine Learning, Docker, Deep Learning, SQL, Java",312076,9,Healthcare,2023
+Cloud Engineer,"MLOps, Tableau, Python, Power BI, Java",2184814,6,Finance,2024
+Software Engineer,"Python, Tableau, TensorFlow, GenAI, MLOps",1113801,7,IT,2026
+Software Engineer,"GenAI, Java",1515022,8,Retail,2025
+Data Analyst,"C++, GenAI",1555694,8,IT,2024
+Data Analyst,"AWS, Deep Learning",2247697,6,Healthcare,2024
+Data Scientist,"MLOps, Machine Learning, Java, TensorFlow, SQL",705135,6,Education,2025
+Cloud Engineer,"Power BI, AWS, Machine Learning, NLP",965912,5,Education,2025
+ML Engineer,"AWS, Deep Learning",768567,9,Education,2025
+AI Engineer,"Tableau, Python",312307,3,IT,2025
+Cybersecurity Analyst,"Power BI, Pandas, Machine Learning",1795721,9,Healthcare,2024
+Cloud Engineer,"Machine Learning, Power BI, SQL",2018192,3,IT,2026
+Cybersecurity Analyst,"Power BI, SQL, NLP, Deep Learning, C++",1684854,5,Finance,2022
+Data Scientist,"AWS, Docker, NLP, Power BI",1771953,7,Retail,2022
+ML Engineer,"SQL, Tableau, AWS",2407979,8,Finance,2025
+Cybersecurity Analyst,"Tableau, Deep Learning",1332313,8,IT,2022
+Data Analyst,"Deep Learning, AWS, Pandas, MLOps, Java",1165467,4,Education,2024
+Cloud Engineer,"C++, SQL, Docker, NLP",1384939,3,Healthcare,2024
+Software Engineer,"SQL, GenAI, TensorFlow, NLP, Tableau",869691,6,IT,2026
+Software Engineer,"MLOps, NLP",613908,5,Healthcare,2022
+Cloud Engineer,"Python, Pandas, TensorFlow",1384368,2,Finance,2022
+ML Engineer,"MLOps, AWS",1765372,6,Healthcare,2022
+Data Analyst,"NLP, Java, Tableau, SQL",2055693,9,Finance,2023
+Data Scientist,"MLOps, Python",402442,3,Retail,2023
+Cloud Engineer,"Tableau, Deep Learning, MLOps, Docker",1551500,0,Education,2024
+Cloud Engineer,"Docker, Tableau, MLOps",305064,0,Healthcare,2026
+Data Scientist,"Pandas, SQL, NLP, Deep Learning, GenAI",1308084,7,Finance,2022
+AI Engineer,"MLOps, Docker, GenAI",1019699,5,IT,2026
+AI Engineer,"Power BI, MLOps, Python",1386957,9,IT,2023
+Data Analyst,"NLP, C++, SQL",1068849,3,Finance,2025
+Data Analyst,"Power BI, Machine Learning, Pandas",350716,0,Education,2023
+Data Scientist,"C++, GenAI, Power BI, Tableau",1071026,2,Healthcare,2024
+Data Scientist,"MLOps, Java, NLP, GenAI",1014010,7,Healthcare,2022
+ML Engineer,"AWS, Machine Learning",1634055,7,Finance,2023
+Software Engineer,"TensorFlow, AWS, Docker, Java",2185728,5,IT,2023
+ML Engineer,"Python, TensorFlow, Tableau",1803358,9,Healthcare,2024
+AI Engineer,"C++, Tableau",2265709,7,Finance,2022
+Data Scientist,"NLP, Pandas",2285004,1,Healthcare,2025
+Data Analyst,"Tableau, Java, Machine Learning, SQL",1887573,2,Education,2025
+Software Engineer,"Deep Learning, Tableau, C++, Power BI",829706,4,Education,2025
+Cybersecurity Analyst,"C++, AWS, Tableau",2402773,1,Education,2022
+AI Engineer,"Java, TensorFlow, C++, Docker",1378610,0,IT,2022
+Cloud Engineer,"AWS, Power BI, Pandas, Deep Learning",1259986,10,IT,2025
+AI Engineer,"GenAI, Deep Learning, C++",800318,8,Finance,2025
+Cybersecurity Analyst,"Python, Tableau, NLP, Pandas",2000619,9,Healthcare,2025
+Cloud Engineer,"Java, SQL, AWS, Docker",1383082,9,IT,2022
+Data Analyst,"AWS, Pandas, Power BI",1571729,7,Finance,2024
+Cloud Engineer,"C++, Power BI, MLOps, Pandas, Deep Learning",2330355,3,Finance,2024
+Cloud Engineer,"C++, Python, Docker, AWS, MLOps",1089947,8,Finance,2023
+Cybersecurity Analyst,"C++, GenAI, AWS",719151,7,Finance,2025
+ML Engineer,"Tableau, GenAI, MLOps, Deep Learning, C++",2122842,3,Retail,2023
+Data Analyst,"Docker, Pandas, AWS, Machine Learning, NLP",2290049,6,Finance,2022
+Data Analyst,"Python, NLP, GenAI, C++, MLOps",1102784,4,Finance,2024
+AI Engineer,"Power BI, MLOps, Deep Learning, AWS",1885561,0,IT,2025
+Cybersecurity Analyst,"SQL, GenAI, Docker",1246449,5,Education,2026
+Software Engineer,"TensorFlow, C++",2398524,2,IT,2026
+Cloud Engineer,"Docker, Pandas",1094735,7,Education,2022
+AI Engineer,"SQL, NLP, Power BI",304478,4,IT,2024
+ML Engineer,"NLP, Docker, Python",1643865,6,Retail,2026
+AI Engineer,"GenAI, MLOps, Deep Learning, TensorFlow, NLP",599033,4,Retail,2023
+Software Engineer,"SQL, Python, Machine Learning, Tableau",2097576,0,Healthcare,2023
+Software Engineer,"Power BI, SQL, Java",1313673,7,Education,2022
+Software Engineer,"Tableau, Python, C++, Deep Learning, Docker",1869361,7,IT,2026
+Data Scientist,"C++, Machine Learning, Deep Learning, NLP, AWS",1883803,5,Finance,2025
+Software Engineer,"Java, NLP, Python, MLOps, Deep Learning",1098476,9,Finance,2022
+Cloud Engineer,"GenAI, Tableau",1164340,4,Finance,2026
+AI Engineer,"Java, SQL, Tableau, TensorFlow, Machine Learning",1676069,2,Finance,2023
+Software Engineer,"Docker, Deep Learning",605390,10,Retail,2026
+AI Engineer,"C++, Machine Learning, MLOps, Tableau",2178977,10,Healthcare,2024
+Cybersecurity Analyst,"SQL, C++, TensorFlow",1575192,2,Retail,2023
+Software Engineer,"C++, Java",2196204,8,IT,2024
+Software Engineer,"Python, MLOps, NLP, Java, Tableau",617870,1,Retail,2025
+ML Engineer,"Tableau, C++, Machine Learning, Python",387267,9,Finance,2025
+Data Analyst,"Tableau, AWS, Python",2439969,1,Education,2026
+Data Scientist,"Python, AWS, MLOps, TensorFlow",2014472,8,Education,2024
+Data Analyst,"GenAI, Deep Learning, Java, Docker, TensorFlow",1597807,4,Retail,2026
+Cybersecurity Analyst,"MLOps, Tableau, Python, TensorFlow, Java",1633828,3,Education,2023
+AI Engineer,"Python, Pandas",1346870,10,Finance,2023
+AI Engineer,"Power BI, Python, NLP, Docker",1043593,7,Healthcare,2025
+AI Engineer,"Java, AWS, SQL, Machine Learning, MLOps",1105691,8,Finance,2024
+Data Scientist,"AWS, NLP, Docker",1386729,2,Finance,2022
+AI Engineer,"Python, TensorFlow",1766416,8,Retail,2022
+Cloud Engineer,"Python, GenAI, Deep Learning",683186,8,IT,2022
+Software Engineer,"NLP, Java, Docker, GenAI",1553626,3,Education,2024
+Software Engineer,"Deep Learning, Python",1249533,4,Education,2023
+Data Analyst,"C++, GenAI, AWS, Machine Learning",2462517,5,Healthcare,2025
+Data Analyst,"SQL, Machine Learning",1439303,8,Healthcare,2024
+Data Scientist,"Python, MLOps, Pandas, Deep Learning, Docker",2035885,2,Finance,2026
+Software Engineer,"C++, GenAI, Pandas, SQL",2298602,0,Education,2024
+Data Analyst,"TensorFlow, Tableau, Deep Learning, SQL",1633580,6,IT,2025
+Cybersecurity Analyst,"C++, Deep Learning, Pandas, Docker, SQL",480427,3,Healthcare,2026
+Cybersecurity Analyst,"TensorFlow, Power BI, SQL, MLOps, Machine Learning",1300188,5,Education,2026
+AI Engineer,"Pandas, Python, NLP, GenAI, Java",575278,2,Healthcare,2025
+Data Scientist,"Pandas, AWS, MLOps, SQL, Tableau",1781875,1,Healthcare,2023
+ML Engineer,"TensorFlow, SQL, GenAI, Deep Learning",1891395,2,IT,2022
+Cybersecurity Analyst,"NLP, Docker, TensorFlow, SQL, MLOps",1168799,2,IT,2026
+AI Engineer,"GenAI, SQL, AWS",1601342,6,IT,2022
+ML Engineer,"Machine Learning, NLP, Power BI, Java, Deep Learning",885893,4,Education,2023
+Data Scientist,"Java, NLP, Machine Learning, MLOps, C++",2264509,10,Education,2022
+AI Engineer,"Tableau, Pandas, Java, TensorFlow, SQL",508648,0,Finance,2026
+Data Scientist,"Power BI, SQL, NLP, Machine Learning",1210235,9,Healthcare,2026
+AI Engineer,"C++, NLP",1790531,7,Healthcare,2025
+Cybersecurity Analyst,"Power BI, C++, Tableau, NLP, Pandas",870388,10,Finance,2024
+Software Engineer,"Docker, Python, Java, Deep Learning, Power BI",943271,6,IT,2026
+Data Analyst,"Java, TensorFlow, GenAI, Python, SQL",2297490,8,Retail,2026
+Data Analyst,"Java, AWS",683609,1,Finance,2022
+Cloud Engineer,"GenAI, SQL, Python",510770,1,Finance,2026
+Cloud Engineer,"GenAI, Tableau",1675463,6,Healthcare,2025
+ML Engineer,"Power BI, C++, Machine Learning, Docker, Python",844883,0,IT,2024
+Data Scientist,"C++, Tableau",1739677,2,Finance,2022
+Software Engineer,"Machine Learning, Deep Learning, Tableau, SQL, Pandas",338574,0,Retail,2023
+Cloud Engineer,"Power BI, MLOps",1190475,1,Finance,2023
+Software Engineer,"Docker, Python",1618868,8,Finance,2026
+AI Engineer,"SQL, C++, Docker",1385599,3,IT,2022
+Cybersecurity Analyst,"Pandas, TensorFlow, Power BI, NLP, Deep Learning",1051708,6,Retail,2026
+AI Engineer,"AWS, C++",2265481,5,IT,2025
+Software Engineer,"Power BI, Docker",570709,7,Retail,2023
+AI Engineer,"GenAI, Machine Learning",1212819,4,IT,2022
+ML Engineer,"NLP, GenAI, AWS, TensorFlow",953460,1,Education,2024
+ML Engineer,"SQL, Tableau, Deep Learning, Java, Pandas",496544,8,Finance,2026
+Data Scientist,"AWS, Pandas, Deep Learning",1038707,8,IT,2024
+AI Engineer,"Power BI, Java, SQL",2311450,4,Retail,2025
+Cybersecurity Analyst,"Tableau, GenAI, Python",393963,1,IT,2022
+Software Engineer,"TensorFlow, Docker",660060,7,Healthcare,2024
+Software Engineer,"NLP, Python, Power BI, Machine Learning",2396867,5,Healthcare,2025
+Data Analyst,"Deep Learning, Python, Power BI",1111898,2,Retail,2026
+Data Scientist,"TensorFlow, Python, MLOps, Machine Learning",1619889,6,IT,2025
+Software Engineer,"Pandas, Deep Learning, Java, SQL",1907370,3,Finance,2023
+Data Scientist,"Docker, Python, AWS, SQL, Power BI",1782228,9,IT,2025
+ML Engineer,"C++, AWS",1576467,1,IT,2026
+AI Engineer,"AWS, Tableau, C++",1522047,7,Healthcare,2022
+Cybersecurity Analyst,"Docker, C++, Power BI",1796889,5,Education,2022
+Software Engineer,"GenAI, Pandas, SQL",2024317,2,Education,2025
+AI Engineer,"MLOps, AWS, Tableau",2427391,10,Retail,2022
+Data Analyst,"SQL, Java, Deep Learning, Python, C++",2265459,3,IT,2026
+Software Engineer,"Machine Learning, SQL, Python, C++",580017,1,Healthcare,2024
+Cybersecurity Analyst,"GenAI, Java, Deep Learning",2412769,6,Healthcare,2023
+AI Engineer,"Machine Learning, Python, Pandas",399128,3,Education,2023
+Software Engineer,"Pandas, TensorFlow, MLOps",1272011,10,Finance,2022
+Cybersecurity Analyst,"AWS, C++, NLP",1791367,5,IT,2026
+Data Scientist,"Python, Java, Power BI, Docker, AWS",920884,6,Healthcare,2026
+Software Engineer,"NLP, Machine Learning",1414604,6,Finance,2025
+Cloud Engineer,"Machine Learning, Pandas, NLP, Power BI",370160,6,Finance,2022
+ML Engineer,"Docker, SQL, NLP, TensorFlow",1419543,2,Education,2025
+Software Engineer,"TensorFlow, Power BI, Docker",319814,6,Education,2022
+ML Engineer,"Machine Learning, C++, Pandas, Power BI",1401238,0,IT,2025
+Cybersecurity Analyst,"Power BI, AWS, TensorFlow, Python",830154,1,Education,2025
+ML Engineer,"AWS, MLOps, Docker",1862443,8,Retail,2024
+Software Engineer,"AWS, NLP",1671999,8,Education,2024
+AI Engineer,"AWS, C++, Python, TensorFlow",1715009,8,IT,2023
+AI Engineer,"Deep Learning, Pandas",2187853,9,Education,2026
+ML Engineer,"Pandas, SQL, Power BI, Machine Learning",2315895,8,Retail,2025
+Cloud Engineer,"C++, Java, Pandas",887505,4,Finance,2023
+ML Engineer,"C++, SQL, GenAI, AWS",1715411,1,Education,2025
+Software Engineer,"Tableau, Pandas, SQL",852536,5,Retail,2022
+Data Analyst,"GenAI, Deep Learning, Docker, Java",1977122,9,IT,2023
+Software Engineer,"AWS, GenAI, NLP",1526551,0,Education,2023
+Cybersecurity Analyst,"Machine Learning, C++, Deep Learning",746890,10,Finance,2026
+Cloud Engineer,"Java, Power BI, MLOps, TensorFlow, NLP",1948754,4,Finance,2026
+Cloud Engineer,"C++, GenAI",1978059,9,Retail,2023
+Software Engineer,"NLP, Deep Learning, Pandas, Power BI, Tableau",1222806,0,Retail,2023
+Cloud Engineer,"Machine Learning, AWS",1093952,9,Finance,2026
+AI Engineer,"Python, Tableau, SQL, Pandas, Docker",1221615,6,Education,2022
+AI Engineer,"Deep Learning, AWS, Python, TensorFlow",2411278,7,Finance,2026
+ML Engineer,"Power BI, C++, NLP, Java",986541,5,Finance,2026
+AI Engineer,"Python, NLP, Docker",644353,0,Finance,2023
+AI Engineer,"SQL, AWS",864813,10,Education,2024
+ML Engineer,"Java, Docker, Machine Learning",1524890,7,IT,2024
+AI Engineer,"Power BI, SQL",1740460,0,Education,2026
+AI Engineer,"Pandas, MLOps, SQL, Power BI, Java",1368548,10,IT,2025
+Cybersecurity Analyst,"Java, C++, Docker, Python, SQL",1727329,5,Retail,2023
+Cybersecurity Analyst,"Python, GenAI",2410102,0,Retail,2022
+Cybersecurity Analyst,"Python, Docker",1904159,9,Education,2025
+Data Scientist,"TensorFlow, Deep Learning",2220504,9,Education,2022
+Data Scientist,"TensorFlow, Machine Learning, Tableau, Pandas",2243007,2,IT,2022
+Cloud Engineer,"MLOps, Tableau, Java, C++, Machine Learning",696381,7,Retail,2026
+ML Engineer,"TensorFlow, AWS, MLOps",2273997,2,Education,2023
+Cybersecurity Analyst,"Pandas, NLP, Docker, Machine Learning, Python",487291,1,Retail,2025
+ML Engineer,"Pandas, Python, Deep Learning, Docker",1654326,3,Finance,2022
+Data Scientist,"AWS, SQL, Java, Docker, NLP",316015,1,IT,2025
+Cloud Engineer,"TensorFlow, Java, Deep Learning, C++",998051,5,Finance,2025
+ML Engineer,"Java, Pandas, Tableau",765298,4,Healthcare,2022
+AI Engineer,"C++, Deep Learning, NLP, Docker",1410618,4,Healthcare,2022
+Data Analyst,"Docker, Pandas, AWS",1853771,10,Healthcare,2022
+AI Engineer,"Machine Learning, Pandas, C++",602864,2,IT,2026
+Data Analyst,"Python, C++",354161,0,Retail,2026
+ML Engineer,"C++, NLP, SQL, Python, Tableau",685410,0,Retail,2026
+AI Engineer,"Java, Machine Learning, GenAI",2382812,8,Finance,2023
+AI Engineer,"C++, MLOps",2168215,10,Finance,2024
+ML Engineer,"Power BI, Pandas, Java, Tableau, SQL",1247320,4,Education,2026
+Cybersecurity Analyst,"GenAI, AWS, MLOps, TensorFlow, NLP",1710025,5,IT,2025
+Data Scientist,"C++, AWS",1258783,8,Education,2025
+Cloud Engineer,"Python, GenAI, Machine Learning, Docker",1277858,5,Finance,2025
+Cloud Engineer,"Docker, TensorFlow",1319679,2,Retail,2026
+Data Scientist,"SQL, NLP, Power BI, C++, Deep Learning",2343193,2,Healthcare,2022
+Cybersecurity Analyst,"Tableau, AWS, Machine Learning, Docker, Java",1492749,2,Retail,2025
+Data Scientist,"Pandas, Java, Tableau, Machine Learning, SQL",1124145,0,Retail,2024
+Data Scientist,"Deep Learning, Machine Learning, Java, C++, Python",2267267,4,Healthcare,2026
+Data Analyst,"SQL, MLOps, GenAI, TensorFlow, Docker",1350619,3,Healthcare,2022
+Cloud Engineer,"Python, C++",870073,1,Finance,2023
+Software Engineer,"Python, Machine Learning",1077955,3,Finance,2026
+ML Engineer,"Java, Pandas, MLOps",1996896,3,Healthcare,2022
+Cybersecurity Analyst,"Deep Learning, Power BI, GenAI, C++, MLOps",460758,7,IT,2025
+ML Engineer,"Java, AWS, Machine Learning, NLP",1464352,5,Healthcare,2022
+AI Engineer,"Deep Learning, AWS",1338072,5,Retail,2023
+Data Analyst,"MLOps, Tableau, GenAI",1943483,8,Finance,2023
+Cybersecurity Analyst,"Power BI, C++",1875800,9,Retail,2024
+AI Engineer,"Deep Learning, Power BI, Java, GenAI, Python",654298,6,Education,2023
+Cloud Engineer,"TensorFlow, Python, MLOps, C++, Deep Learning",303462,6,Healthcare,2022
+AI Engineer,"Java, MLOps, Pandas, Docker, C++",460280,3,Retail,2024
+AI Engineer,"Tableau, Pandas",1510530,7,Finance,2023
+Software Engineer,"GenAI, AWS, MLOps",2047151,1,Healthcare,2023
+Software Engineer,"MLOps, C++, Java, AWS, TensorFlow",2260337,10,Education,2025
+Data Analyst,"Java, Deep Learning, TensorFlow, MLOps",954297,5,Education,2026
+Software Engineer,"TensorFlow, Machine Learning",428195,5,IT,2022
+Cloud Engineer,"Docker, NLP",1827329,10,Healthcare,2025
+Data Analyst,"AWS, Docker, Tableau, TensorFlow, Java",754721,6,Retail,2023
+Data Analyst,"SQL, TensorFlow, GenAI, C++",805977,9,Finance,2024
+Cybersecurity Analyst,"Deep Learning, Java, Python, Docker, MLOps",1964239,7,Finance,2025
+Cybersecurity Analyst,"C++, Machine Learning, GenAI",742432,5,Education,2025
+Software Engineer,"Pandas, Machine Learning, Java",2207895,4,Finance,2023
+Cloud Engineer,"SQL, Power BI, Java, Machine Learning",1062758,3,Healthcare,2022
+Cloud Engineer,"Power BI, Tableau",477348,10,Retail,2025
+Data Analyst,"NLP, TensorFlow, Docker, MLOps, SQL",544577,3,Finance,2025
+Software Engineer,"Java, Tableau, MLOps, Machine Learning",1757390,3,Healthcare,2022
+Data Analyst,"Java, AWS, Python",1138747,1,Education,2023
+Software Engineer,"Pandas, NLP",1982371,0,Finance,2023
+ML Engineer,"Machine Learning, GenAI",1789644,10,Education,2022
+ML Engineer,"Tableau, C++, AWS, Deep Learning",1695648,8,Retail,2022
+Software Engineer,"Java, Machine Learning, GenAI, AWS",2057964,1,Healthcare,2024
+ML Engineer,"MLOps, AWS",2316859,7,Finance,2025
+AI Engineer,"Power BI, Java, Machine Learning",1909246,5,IT,2023
+ML Engineer,"MLOps, Tableau, Python",1421899,7,Finance,2023
+Cybersecurity Analyst,"Machine Learning, NLP, MLOps, TensorFlow",2051975,0,Finance,2022
+AI Engineer,"TensorFlow, Tableau, Machine Learning, C++",456534,6,Retail,2025
+Software Engineer,"SQL, Pandas, Deep Learning, Docker",816694,6,Retail,2022
+Data Scientist,"Python, Deep Learning",2270869,4,Finance,2022
+Data Scientist,"Java, NLP, Pandas",693328,9,Healthcare,2024
+Software Engineer,"NLP, Machine Learning, Python, Deep Learning, Docker",2248533,9,Education,2024
+Cloud Engineer,"Java, Python, C++, AWS",2098060,3,Education,2026
+ML Engineer,"GenAI, Machine Learning, Python, Deep Learning",2222229,3,IT,2022
+Cybersecurity Analyst,"Java, C++, AWS",1592381,10,Healthcare,2023
+ML Engineer,"GenAI, Python",828321,9,Healthcare,2025
+AI Engineer,"SQL, Tableau, Docker, AWS, Power BI",1866009,6,Education,2026
+Data Analyst,"Machine Learning, C++, Docker, NLP, Java",2404351,10,Retail,2026
+Cloud Engineer,"SQL, Deep Learning",808220,8,Retail,2025
+Software Engineer,"Pandas, Docker, Deep Learning, Tableau, Machine Learning",572658,8,Education,2023
+Cybersecurity Analyst,"SQL, AWS, Java, C++",1726236,10,Education,2022
+Data Scientist,"Machine Learning, SQL, Java, Tableau",2278712,0,IT,2026
+Software Engineer,"AWS, Power BI, Tableau",1059014,1,Healthcare,2026
+ML Engineer,"GenAI, NLP, TensorFlow, Java, Python",1245859,5,IT,2023
+Data Analyst,"NLP, Java, Power BI, Deep Learning, C++",2325838,5,Healthcare,2022
+ML Engineer,"Power BI, Machine Learning, GenAI, SQL, TensorFlow",2128271,0,Finance,2025
+Data Analyst,"Docker, MLOps",1241042,6,Retail,2024
+AI Engineer,"GenAI, Java, Deep Learning, Docker, AWS",553133,6,Healthcare,2024
+Software Engineer,"C++, GenAI, MLOps, Java, Docker",337304,10,IT,2023
+Data Scientist,"AWS, Power BI, Docker",1604556,8,Finance,2026
+Cybersecurity Analyst,"Deep Learning, Docker",2255931,8,Retail,2024
+Data Scientist,"Java, SQL",387212,0,Retail,2022
+Software Engineer,"Deep Learning, TensorFlow, GenAI",737023,8,Finance,2025
+Cloud Engineer,"GenAI, AWS, Java, Machine Learning, MLOps",1616498,1,Finance,2026
+Data Analyst,"Pandas, GenAI, Machine Learning, NLP",508222,1,IT,2024
+Data Scientist,"AWS, Python, SQL, Deep Learning, Tableau",1715776,2,Healthcare,2026
+Data Scientist,"Pandas, Tableau",1800440,5,IT,2026
+ML Engineer,"SQL, Deep Learning, TensorFlow, AWS",1718209,8,Education,2023
+Software Engineer,"Tableau, Java, MLOps",1831627,4,IT,2024
+Data Scientist,"Docker, AWS, Python, GenAI, Pandas",1539427,6,Education,2026
+Cloud Engineer,"Docker, MLOps",1225188,9,Retail,2022
+Cybersecurity Analyst,"NLP, Power BI",1858090,3,Finance,2025
+Cybersecurity Analyst,"SQL, Machine Learning, MLOps, Deep Learning, NLP",693958,2,IT,2026
+Data Analyst,"Deep Learning, TensorFlow, GenAI, Tableau",2017568,3,Finance,2024
+Cybersecurity Analyst,"Pandas, Tableau, MLOps, SQL",994537,0,Finance,2024
+Cloud Engineer,"Machine Learning, Deep Learning, Power BI",574341,0,Healthcare,2024
+Software Engineer,"Tableau, C++",1052703,10,Healthcare,2022
+Software Engineer,"Tableau, NLP, AWS, GenAI, Docker",1787964,7,Healthcare,2024
+AI Engineer,"Java, Python, Deep Learning, MLOps",1861779,9,Healthcare,2024
+Data Scientist,"Python, Java, C++",1680584,1,Healthcare,2026
+AI Engineer,"Machine Learning, C++, Python, Deep Learning",773405,9,Healthcare,2026
+Data Scientist,"Pandas, Deep Learning, Docker, Machine Learning, NLP",1528450,0,Retail,2025
+Software Engineer,"MLOps, Deep Learning, C++, TensorFlow",802564,7,Healthcare,2023
+Data Analyst,"SQL, NLP, C++, Docker",894125,7,Healthcare,2023
+Cloud Engineer,"Tableau, Machine Learning",2181609,6,Finance,2022
+ML Engineer,"C++, GenAI, Java",2464353,9,Healthcare,2023
+AI Engineer,"SQL, Pandas, AWS, Deep Learning, Docker",1080413,9,Education,2023
+Cybersecurity Analyst,"Tableau, Python, Docker, MLOps",1655062,3,Finance,2024
+Software Engineer,"Docker, Python, NLP",2070161,5,Retail,2022
+AI Engineer,"Tableau, TensorFlow",1761482,1,Retail,2026
+Data Scientist,"GenAI, NLP, TensorFlow, Deep Learning",1121132,4,Education,2022
+Data Scientist,"AWS, MLOps",1007106,2,Retail,2025
+Data Scientist,"MLOps, Deep Learning, Machine Learning, AWS, Docker",2133029,8,IT,2024
+ML Engineer,"Tableau, NLP, Machine Learning, C++",486875,9,IT,2026
+Software Engineer,"Deep Learning, MLOps",1254380,6,Healthcare,2023
+AI Engineer,"C++, Machine Learning, Power BI",2375549,6,IT,2025
+Data Analyst,"TensorFlow, Deep Learning, NLP, Power BI",1810198,10,Healthcare,2022
+AI Engineer,"AWS, GenAI, Pandas, Deep Learning, Docker",2084400,7,Retail,2026
+ML Engineer,"Python, C++, Power BI, SQL, Java",613582,9,Retail,2025
+Software Engineer,"NLP, Machine Learning",681523,4,Healthcare,2025
+ML Engineer,"Power BI, Docker, TensorFlow",789663,0,IT,2022
+Cloud Engineer,"AWS, NLP, Java, Machine Learning",1396733,0,IT,2026
+Cybersecurity Analyst,"Deep Learning, MLOps, Java",1266069,9,Retail,2022
+Cloud Engineer,"Deep Learning, SQL",2299896,0,Finance,2025
+ML Engineer,"Java, C++, GenAI, Docker",318433,7,Education,2023
+Data Analyst,"GenAI, NLP, AWS",1861064,2,Education,2023
+AI Engineer,"NLP, Python",2294521,5,IT,2024
+Software Engineer,"Java, NLP, Python, AWS, Pandas",1321115,10,Education,2023
+Data Scientist,"MLOps, GenAI, Java, Python, NLP",1355499,1,IT,2023
+Data Scientist,"MLOps, Python, Power BI, GenAI",1823296,1,Healthcare,2024
+Data Analyst,"Python, MLOps, Java, C++",874946,0,Healthcare,2024
+Data Scientist,"NLP, AWS, Tableau, MLOps, Python",1007637,1,Education,2022
+AI Engineer,"AWS, Java, C++, TensorFlow, GenAI",1942407,5,IT,2026
+AI Engineer,"C++, Deep Learning, Tableau, SQL",2264658,7,Healthcare,2023
+Data Analyst,"C++, Pandas, SQL",1358291,1,Finance,2025
+Data Scientist,"Tableau, AWS, TensorFlow, MLOps, C++",2366938,5,Finance,2024
+Data Scientist,"Machine Learning, MLOps, Power BI",786383,7,IT,2025
+Data Scientist,"AWS, GenAI",2471098,9,Retail,2023
+Software Engineer,"Deep Learning, NLP, SQL, MLOps",2071879,0,Retail,2023
+Data Scientist,"Deep Learning, Python",438793,6,Education,2022
+Data Analyst,"MLOps, GenAI, NLP, Java",1333154,4,Healthcare,2024
+Data Scientist,"Docker, Python, Deep Learning",2389232,6,Healthcare,2023
+AI Engineer,"Machine Learning, Pandas, Tableau, Java",435835,10,IT,2025
+Data Analyst,"Python, Java, Docker",2430903,9,Retail,2022
+Software Engineer,"Java, NLP, Docker",522877,6,Finance,2025
+Software Engineer,"Java, SQL, TensorFlow",1161858,0,Retail,2022
+AI Engineer,"Power BI, AWS, Pandas",1374998,8,Finance,2025
+AI Engineer,"TensorFlow, Python, C++, SQL",2081976,7,IT,2022
+Data Analyst,"AWS, MLOps, Pandas, Machine Learning, Tableau",2054559,6,IT,2024
+Cloud Engineer,"Tableau, SQL, Python, NLP",2105504,10,IT,2024
+Data Scientist,"Deep Learning, AWS, Java",2330425,2,Retail,2026
+ML Engineer,"TensorFlow, Machine Learning, Tableau, Deep Learning, GenAI",1044253,5,Healthcare,2024
+AI Engineer,"NLP, Docker, C++",2406627,8,IT,2026
+Cloud Engineer,"Pandas, GenAI, Deep Learning, C++, TensorFlow",1283400,6,Education,2026
+ML Engineer,"Java, NLP, C++, SQL",1433735,6,IT,2022
+Cloud Engineer,"Docker, Java, C++, Deep Learning, SQL",958551,9,Healthcare,2022
+Data Analyst,"MLOps, Power BI, NLP, Tableau",2472536,3,Finance,2025
+Data Scientist,"TensorFlow, C++",1470399,0,Healthcare,2024
+AI Engineer,"C++, Pandas, Java, TensorFlow, Machine Learning",1091234,10,Finance,2025
+Data Analyst,"C++, Deep Learning, Python, Docker",1782148,9,Education,2026
+ML Engineer,"Deep Learning, Java, Docker, Pandas, C++",687156,9,Finance,2023
+Software Engineer,"SQL, C++, Tableau, Java",1873888,4,Finance,2023
+Software Engineer,"Power BI, SQL, Deep Learning",749119,9,Finance,2024
+Data Analyst,"Pandas, Deep Learning, SQL, Power BI",1029307,2,Education,2025
+Cloud Engineer,"Java, C++, Pandas",1546044,1,IT,2023
+Data Scientist,"MLOps, Power BI, Tableau, Java, Pandas",1486013,8,Education,2026
+Cloud Engineer,"Machine Learning, Deep Learning, C++",1422970,4,Education,2024
+Cybersecurity Analyst,"SQL, Machine Learning, Power BI",561704,3,Education,2026
+Cybersecurity Analyst,"GenAI, SQL, Power BI, MLOps",1309527,9,IT,2026
+AI Engineer,"SQL, Java",1642478,10,Retail,2026
+ML Engineer,"AWS, Tableau, C++",1568136,1,Finance,2024
+Cloud Engineer,"Power BI, MLOps, GenAI",356606,6,Healthcare,2025
+Data Scientist,"Machine Learning, Java, C++, GenAI",2314370,2,Finance,2026
+Cybersecurity Analyst,"Tableau, NLP",1290308,6,IT,2024
+AI Engineer,"Python, TensorFlow, AWS",1578317,9,Retail,2022
+Cybersecurity Analyst,"TensorFlow, Machine Learning, AWS",1384962,6,Finance,2022
+Cybersecurity Analyst,"C++, SQL, Java",1981826,3,Education,2026
+ML Engineer,"MLOps, Tableau, TensorFlow, Deep Learning, Python",2145206,0,Education,2022
+Data Analyst,"Tableau, GenAI",2096035,1,Education,2023
+Cloud Engineer,"GenAI, Java, Deep Learning, Machine Learning",1658591,7,Healthcare,2025
+Data Analyst,"Tableau, Docker, Pandas, TensorFlow, Python",1354463,9,Finance,2024
+ML Engineer,"Python, Tableau, NLP, MLOps",2300280,2,Retail,2024

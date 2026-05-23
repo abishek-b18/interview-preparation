@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>PrepAce Login</title>
+</head>
+
+<body>
+
+<div class="login-container">
+
+<h1>PrepAce</h1>
+<p>Your AI Interview Coach</p>
+
+<div class="tabs">
+<button>Login</button>
+<button>Signup</button>
+</div>
+
+<input type="email" placeholder="Email">
+
+<input type="password"
+placeholder="Password">
+
+<button class="login-btn">
+Sign In →
+</button>
+
+</div>
+
+</body>
+</html>
